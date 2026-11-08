@@ -1,2 +1,3 @@
-# COMPPROG_BSIT_1-2_sem1
-COMPPROG 1st Semester
+# Computer Programming Year 1
+BS Information Technology
+Computer Programming
